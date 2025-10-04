@@ -1,13 +1,13 @@
 [
     {
-      "title": "Welcome to PikSim",
-      "description": "This is the first article.",
-      "image": "https://picsum.photos/200/300"
+      "title": "First Article",
+      "description": "Some description",
+      "image": "https://picsum.photos/id/237/200/300"
     },
     {
-      "title": "How does this tool work?",
-      "description": "Here’s how the simulator works...",
-      "image": "https://picsum.photos/200/300"
+      "title": "Second Article",
+      "description": "Another description",
+      "image": "https://picsum.photos/id/237/200/300"
     }
   ]
   
