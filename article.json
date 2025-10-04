@@ -8,6 +8,16 @@
       "title": "Second Article",
       "description": "Another description",
       "image": "https://picsum.photos/id/237/200/300"
-    }
+    },
+    {
+        "title": "Second Article",
+        "description": "Another description",
+        "image": "https://picsum.photos/id/237/200/300"
+      },
+      {
+        "title": "Second Article",
+        "description": "Another description",
+        "image": "https://picsum.photos/id/237/200/300"
+      }
   ]
   
