@@ -1,18 +1,13 @@
 [
     {
-      "title": "First Article",
-      "description": "Some description",
-      "image": "https://i.postimg.cc/qqFC2gqw/bannerplain.png"
+      "title": "Simbrief Integration",
+      "description": "The simbrief integration is now Live! Import your flightplans and view your online ATC Frequencies!",
+      "image": "https://i.postimg.cc/QC8QkC3F/simbrief.png"
     },
     {
-      "title": "Second Article",
-      "description": "Another description",
-      "image": "https://i.postimg.cc/qqFC2gqw/bannerplain.png"
-    },
-    {
-        "title": "Second Article",
-        "description": "Another description",
-        "image": "https://i.postimg.cc/qqFC2gqw/bannerplain.png"
-      }
+      "title": "Beta Launch!",
+      "description": "Finally the first version of PIK Is Live!",
+      "image": "https://i.postimg.cc/J4yDwZPR/launch.png"
+    }
   ]
   
